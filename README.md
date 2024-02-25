@@ -1,4 +1,4 @@
-# React_Native
+# React Native
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,bootstrap,css,npm,redux,reactivex)](https://skillicons.dev)
 
